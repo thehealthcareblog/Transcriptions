@@ -1,0 +1,189 @@
+Title: Avasure Tech for helpful watching & remote care in hospitals
+
+URL: https://www.youtube.com/watch?v=JkgRaBE26VE
+Language: en
+Duration: 00:35:40
+Upload Date: Oct 18, 2025
+
+Transcription:
+
+[Music] Hi, it's Matthew Hall with the another THCB spotlight. I'm here with a part of the crack team from Averaw. Is it Avashure or Abashure? Aashore? Lava. Sorry. Aa like lava. Ava like aashore or lavashure without the L. Okay. I have with me Elizabeth Vuba who is the chief clinical officer and Dana Pekco who is the AVP of clinical informatics. Did I get those right? Brilliant.
+
+Thanks ladies. I appreciate you joining me here. So the obvious thing is if you have been in a hospital you've probably been captured by Aashure but you may not know what the company does. So Elizabeth what does Abashure do? Um yeah thanks. Avisher is an intelligent virtual care platform and what we do is we blend virtual care in patient interactions but it's across the continuum of care and different health care settings from acute care to um long-term care and then ICU and even into hospital at home. And to do that in in 2025 you must be AI enabled and you
+
+must be fully integrated. Um, so we focus a lot on that. And then what we're really fundamentally our goal is to improve the care team experience because I'm a third generation nurse and um Dana is second third generation nurse as well. As well Yeah.
+
+And we know both of us know that if the care team experience is elevated, the patient experience is elevated. And if the care team experience is poor, the patient experience is poor. So that's our focus. And um it's it's virtual care fundamentally. So um there's lots of flavors of virtual care and yours is one obviously that is in facilities and is integrated with the on the ground or on the floor staff.
+
+Exactly. You're helping them. What has been the problem for hospitals? I mean I would say you know labor shortage is number one and getting the staffing all the rest of it together is obviously a big problem but what is the fundamental problem that you are helping hospitals and care facilities solve I would say labor is number one two and three okay so so yeah we um we help um on staffing efficiency um in a couple of ways um the one where our starting point was on virtual sitting where um instead of having one staff member to one patient
+
+when there's a safety issue um in you can have a 1 to 12 with a virtual or 16 or more um with a virtual application and that's kind of the origins of our company um 15 years ago and um but also virtual nursing where a virtual nurse a more experienced nurse um can support bedside nurses doing some of the documentation and patient education.
+
+Specialty consults, which is really especially pertinent for rural settings right now where there might be um an urban center that has great specialists and neurologists and um nephrologist is another big one. Um and then they can support their more critical access or community hospitals that keeps the right patient in the right place.
+
+Um and then all at that same time consolidating a platform that can be integrated and um so you're not having these individual little niche use cases in a 10 different cameras in every patient room. Yeah. and and I and I'd say that you know fund one thing you didn't say is that fundamentally it doesn't matter how many humans you have and yes you could potentially have a human sitting in every patient room uh doing the virtual sitting doing the actual sitting if you wanted to and deal with the cost of that um even if you can find those people which obviously it's very tough but you didn't you didn't mention that even in a hospital room or even a facility it's
+
+very hard to have 247 accurate awake eyes on the patient at all times it's just you know it's something that traditionally you know I don't know how many go back 10 years ago wasn't even thought of that now you can do that and that's actually an improvement the quality in the overall quality of care as something that you know can be done using technology obviously you mentioned a lot of other things and obviously there was a staffing shortage etc etc but strikes me that that's kind of a fundamental change in how you know I hate to say that when you two were training as n
+
+might imply that you that was more than 10 years ago which I which I certainly wouldn't wouldn't want to do but I suspect that you there probably was a lot of this when you were in nursing school and it's probably a big change in how people think now about how to deliver care 247 within a facility. Yeah.
+
+And but if I'm going to challenge your tenure, um we've been doing this since 2009. So it's more like 16 years that we've been doing that 247 um eyes in the patient room, but back then it was only 40 really innovative health systems that were doing it and now we're in 1100. All right. So things have changed.
+
+So look, um why don't we So for people who haven't seen this, let's take a look at what it means. Um Dana, I think you've got a uh thing you can bring up. So first things first, What does this look like in a hospital room? Well, I'm glad you asked, Matthew. Let me show you what it looks like and what the patient experience is. All right. Ah, you have a a very good-looking patient there.
+
+I do. That's our our handsome patient that's in Belmont, Michigan, our our headquarters. Um, so just because this isn't a real This is a fake hospital, not a real This is a fake hospital. Well, certainly a fake patient. I'll give you that. Yes, both. But it does have real hospital equipment, so that way you can get the feel of what it feels like.
+
+Um and as you see here in this in this hospital room, we do have our three devices that we do deploy. Uh you can see it in my bottom right of my screen. Uh we do have flexibility in what you can install in your hospital. So as you can see here where we started a mobile device. So you roll the device into the room.
+
+It doesn't mean that you have to make the take the patient to a different room. I can just roll it in, plug it in. It is wireless. So I can have my virtual encounter or I can have that constant observation with that patient. Our other two devices, as you can see here, this one on the upper right hand corner, that's a ceiling device. So, it's up and out of the way.
+
+It's mounted into the ceiling. It can be mounted into a hard lid ceiling for liature free for behavioral health um and those environments that are meant to be for safe rooms because we want to make sure that those patients are safe. And then lastly, our third device, which is right here that's attached to the television.
+
+Uh what makes this device really unique is it actually has two cameras built into it. All of our devices are equipped with both cameras, microphones, and speakers. So, you're not installing multiple devices in your patient rooms. You only need to install a single device. So, this device right here, it's called our Dual Flex. It's our newest device.
+
+And it has a pan, tilt, zoom camera on the top, but then, as you notice on the bottom, it does have a smaller camera that's a fixed view camera, and that runs the AI. Like Elizabeth said, you have to you have to layer in AI in this day and age to make sure that we obviously are optimizing your investment and monitoring these patients, not only from that standpoint of a virtual safety attendant or a virtual nurse, but being able to have AI augment some of that work.
+
+So, so in terms of where what you mostly have out there, is the preponderance this sort of TV integrated uh um the camera, the one in the middle, is that what you mostly have out there or is believe it or not, that's our newest device. We released it this year. So, we are getting an influx of this device uh request for it.
+
+But our mobile device is where we started and that's what we're really strong in. And that's partly because the flexibility of being able to take it in and out of patient rooms. But as organizations are building their uh the virtual strategy, they're moving more to an installed device and we're seeing more and more of an uptick of this this installed device that integrates with the both of those devices installed device integrate with the patient television. All right. Brilliant.
+
+So you have well the three views here with the picture UVB one. What do you do with it? So what do you do with it? That's a good question. So we do we're our core is two different applications. One is like Liz stated we started in the virtual care space for sitting and what you can see here is we current state um we were a 1 to6 model and the demands are calling for an even larger view point from especially when you start to layer in AI as you can see here this is a 1 to 36.
+
+So imagine your virtual safety attendant um being able to monitor multiple patients at once. But what's unique is we no longer are just focusing on just virtual safety attendants. Uh if you have devices in every room, a nurse manager can see inside of patient rooms or if you have remote telemetry and a lot of times there's a lot of um a lack of situational awareness of what's happening in those telemetry rooms.
+
+So being able to have your teleylet tech be able to look quickly in a room and see that if they're getting a notification that leads are off that the PCT is bathing their patient, they don't have to interrupt the caregivers anymore. So they can see and kind of close that loop.
+
+Um I know this so the experience so I'm a virtual nurse sitting at home or in a bunker or whatever. I'm sitting seeing all into all these different rooms and uh these these I assume aren't real patients. These are No, no, this is just to let you understand. No, this is not a real environment. We're not impinging on anybody's privacy. This is all all all good. None of us none of us are going to go to jail quite yet.
+
+No, no, no. We're not going to display anything from HIPPA perspective. So, something's going on with one of these people and I'm looking at it, but also I'm getting an alert. Yep. So, let's give you a little bit clearer view. So, it's a little scaled back so you can see. So, as you can see, I can see what's happening in all my patient rooms.
+
+I do have the ability to um go into privacy which I think is important if a patient some activities of daily living but what I think is really key and crucial is that AI component. So right now we do have multiple different AI um workflows in place. So we have our falls and alopment. So I know that again this isn't a real patient.
+
+So it's a real person but not a real environment. What we want to do is bring the attention to the virtual safety attendant to look in this patient room, especially when you have multiple views happening. So, I can see that this yellow is a warning signal that this patient is a fall risk. Bring your attention to this room.
+
+We really want to be proactive and inteentric as opposed to just boundary centric. So what that means is it's looking at the mobility of the patient. So as their arms are bending, their knees are bending, we're looking at those mo those movements that indicate this patient's trying to get out of bed. It's not just the boundary. So if they're reaching over the bed to grab something on their side table, we get a notification.
+
+It's really taking into account both the patient and the boundary. So So I would get an alert as an attending nurse and then I would literally speak I I can now directly talk to the patient say, "Hey, Mrs. Harrison is Mrs. in this case. Yes. And that's what we want to do. We want to engage the patient.
+
+We want to be an extension of the care team. We want to develop a relationship with them and tell them, "Hey, Miss Harris, I see you're trying to get out of what's the matter? What can I do for you? I'm going to get your your care team member in in the into the room really quickly for you so you can your needs can be met." Sorry.
+
+And how does the care team member get integrated? I saw in one of the other ones, the patient's jumping out of bed and is uh doing jumping jacks and comes in to help. Yep. So, what we can do is we can trigger a stat alarm. So, uh, as you can see here, if I'm the virtual care team member and Miss Harris is just not listening to me, not responding, it's going to be a little loud for you, Matthew. Okay.
+
+But I can go ahead and play my alert. So, I can bring staff to the bedside quickly. And as Elizabeth said, integrations are also key. So when you think about a unit with 30 beds and you have 30 devices, we can also integrate with their nurse call solution to help with wayfinding. So that they might hear that tone, but we want to get them to the room as fast as possible.
+
+So we want to integrate with their nurse call solution as well. But we talk to them, we engage with the patient, we we have clinicians that work with the organizations to to build out their their uh program. And one of the key things that we teach is you are an extension of your care team. You're not just eyes in the sky.
+
+You are an active participant in this patient's care. So, we want you to in um engage them, talk to them, get to know them, and build a relationship. And and do they have I think you showed a quick view before, but do they have a uh a view into this that is different when you showed 36 or whatever it was before, do they have a view into this that to make sure they that they're getting the alarms um quickly and easily? So I mean I I think you know that when people look at you know security guards looking at multiple screens for a long time they're
+
+going to glaze over. How do you make sure that the alarm fatigue doesn't happen to your people using your system as well as we've heard about alarm fatigue. Sure. That's a that's a great question. We do have analytics. So we have a robust analytics platform.
+
+So we can pull a lot of that data and the way that we train is we don't want them to arbitrarily trigger that alarm without reason to do it. We want it to be active and human validated and a reason for them to come to the room. So that will all live in the analytics.
+
+And we're really proud of the fact that one of our training points is that they don't cancel that alarm until a caregiver is in the room. And that way we get true uh data to show how that what that response time is. And our national average is about 17 seconds. And uh it's 19.2 seconds is clinically significant for an adverse event to occur. So, we're really proud that they are actively responding to those alerts.
+
+And Elizabeth, just in terms of the way you're organized, uh are is uh uh Arashure providing um clinical staff as well or is this all a technology you're providing to their clinical staff that you're training or how how does that tend to play out? We um we do not provide clinical staffing but we have a few great partners that we work with um consistently who we've you know we trust and we've had track record with.
+
+So so in other words I'm a hospital and I want to put this in but I don't have spare people available to to manage it. You can kind of bring those partners along. Um how is the integration of that training with the I don't want to I know we're going to get back to the demo here D in a second.
+
+How's the integr how's the integration you how's that you know those partners how do they integrate with the staff do they have to you know how does how does a team on the floor on the water who haven't you know used something like this before get used to it how how does that work that is such a great question and one of our differentiators um is our really unmatched clinical expertise support and partnership that we provide um so we have at Aishure even though we are the technology partners it's really clinically driven and always has been. So we have clinicians
+
+all the way through the process here at Aisher. So on implementation, project management on go live educators are out there supporting as well as on the clinical success. And so we've kind of handpicked the partners that we're working with who uh are also that clinically driven.
+
+And so we have that kind of that experience of collaborating and it's really as far as the acceptance of the um the bedside. It's really about um that trust building. And just like a real quick story at our last symposium, one of our partners um did did virtual nursing from many states away from um Tennessee to New Jersey. So the Tennessee, as you can imagine, salary is um is lower than than the nurses in uh New Jersey.
+
+And there was a nurse there that was resistant initially at the bedside, but she said, "For the first time in years and years, I got to slow down and feed a patient, which to me is nurturing and loving them and also building that therapeutic relationship. while the virtual nurse from the partner took care of some documentation to free me up to do that. So that's how that's built. That's great. That's a lot of integration is is is going well and helping both parties. So Dana, I interrupted you.
+
+So I had no head back to where you were going somewhere else. Perfect segue to talk about virtual nursing. So imagine if you would a virtual nurse can be working from anywhere. They can be working from home. They can be working from a hub. uh we want to make it easy and seamless for them to go ahead and launch a call with that patient.
+
+So this is an example how we could launch through an EMR. So I'm working in my in my EMR vendor and I can launch that call and as you hear we have a virtual that's equivalent to a virtual door knockock or it's our polite entry. It opens up my audio channel so I can ask the patient if now is a good time.
+
+I'm their virtual nurse and maybe I want to go ahead and review uh their discharge orders with them. I can launch the camera. Again, this is obviously a loop. It's not a real live patient, but um I can go ahead and launch the camera. I can talk to the patient. I can pan, tilt, zoom, do everything.
+
+And I think what's important to point out is this patient can also be simultaneously monitored from that continuous perspective. Maybe he's a fall risk or maybe he's known to be picking at medical devices. I can still beam into the room on the same device using this application while somebody else is monitoring them continuously. So you really do get to maximize your investment by using one device to do both workflows.
+
+But in this I can I can like I said I can still trigger my stat alarm, manipulate my camera, I can share my screen. So, if I am sending my patient home or if, as Elizabeth stated, we do we're seeing a lot more uh consults from physicians. If they want to share anything from their pack system or their lab results, they can certainly share their screen with the patient, it would come up on their uh television screen or on that mobile device screen.
+
+Uh the other component that I think is important to think about is as we're thinking about virtual care and having people either work from home or remotely, the need to have two workstations or two monitors can be a little cumbersome at home. So what we have is a docking mode.
+
+So as you can see, I can still be documenting in my EMR. I still have eyes on the patient. I'm working off of one screen. I am not traversing between two different ones. So, I maintain my forward gaze and I talk to my patient and I can do all of my documentation. The last piece is patients aren't in this journey alone. They obviously uh have usually care team members or family members that are a part of their their recovery process.
+
+We want to make sure that they can be a part of the conversation. So, as you can see here, this little button down here, I can add guests to the call. So, I can add family members. I can add clergy is a big one that we're getting a lot lately. Um, and even interpretive services. So, if they have a contract with an interpretive services company, we want it, going back to that integration uh, component, we can integrate with those, pull them in.
+
+And what's nice is all I need when I'm inviting a guest is an email or cell phone number to pull them in, and they'll get a notification. They don't have to download anything to their device. They can go ahead and join the call without installing an application. It is a one-time link. So, uh, once a call is completed, the the link is no longer accessible. So, it really makes it nice. Yeah, that's that's great.
+
+So, you can I show that for things like discharge instructions, especially if you're picking up picking up with somebody at home. That's fantastic. So, I I was interested and maybe Elizabeth, you can tell me a bit about about how this actually works in practice. It's a little bit relevant to the story you just told, but I mean we heard a lot about nursing nursing and physician burnout from documentation and uh how much practical documentation transfer to your service or to people using the Albert service is there compared to what a nurse has to do and then what does the nurse on the floor
+
+have to do to kind of finalize and sign off? Give me how does that process work a little bit and give me some estimates about how much work is being shifted from one one to another. Um I think the the bulk of the work happens on the admission process and the discharge process.
+
+Um and so that almost entirely can go to the virtual nurse. The bedside nurse needs to do a physical assessment and document that. They could scribe it, but I'm not seeing a lot of that happening. um um as far as you know having a virtual nurse oversee the you know physical assessment but um and that really sets up the patient on the right trajectory for their care and that decreases the length of stay right there.
+
+Um and then there's education which happens periodically throughout and on discharge. Um, and just to give you an idea, there was a time in motion study done by one of the health systems of a traditional um, patient discharge with the nurse at the bedside doing the discharge. That nurse was interrupted 17 times. Um, I believe that, right, Dana? Do you believe that? Easily. Absolutely.
+
+Um so the idea of an un uninterrupted virtual nurse able to go through that thoroughly um is tremendous and um so I think we have shown like 20 30% decrease in in the documentation that bedside nurses need to do. So a lot of that would be the the virtual nurse literally talking directly to the uh to the patient and doing the yes the documentation. Yeah. They're practicing nursing.
+
+Yeah. That is nursing practice. Absolutely. Yeah. I think you know we we we are still way too hung up on people being in the same physical place at the same time you know for for delivering delivering healthcare in this country and well in many countries and uh I think this this is this is an area where you know there's a ton of efficiency to be to be gained and you know there are a lot of people who don't want to be standing on their feet all day every day doing the physical work that involves nursing. don't want to lose to the work anymore, but they have the heart and
+
+they have the experience and I love that part. I I met some virtual nurses one and there were four working together in a hub. One of them literally had a cane and they were like together we have over a hundred years of experience, you know. Yeah, absolutely. Who wouldn't love to talk to them? All right, brilliant.
+
+And then Dana, before we go, I think you have uh some some uh some a cool a cool new thing to show me. So I do. I have a virtual care assistant. Um, the other thing I think is important to point out before I go into our virtual care assistant is speaking of technology and growth and development. We have, we would be remiss not to talk about ambient listening for clinical documentation, right? With Avishur's um technology, we have an open architecture.
+
+So, it does make it easy to layer in some of those best of breed uh ambient listening for clinical documentation. How how much of that is going on in nursing so far compared to that's the challenge is it's very prevalent in physician workflows because it's more progress note and more taking unstructured and making it structured where uh a lot of the organizations like a bridge and suki are really looking at the the clinical documentation or nursing documentation because we're flowheet centric so it's just bridging that that movement from that audible discussion with the patient and having it align in the right spaces in the flowheet So, I'm super excited because I
+
+know it's coming and I know they're working heavily with nursing to make sure that it will be useful and we can get that documentation. Yeah. I mean, we a lot of the reason for that, of course, is is you know, physician clinician burnout and having to do notes and stuff. And look, it's just as bad for nurses.
+
+They're burning out just as well% agree that, you know, I hate to say it, but then, you know, the average age of nurses who not getting any younger and you know, we need we need to we need to be very concerned about that as well. Anyway, let's let's see your virtual care assistant. Yes, this is Vicki, our virtual care assistant. Um, she is new to us.
+
+Her her role is to just bridge that gap kind of like what you're saying about bridging the gap from the patient to the care team members. So, the way Vicki works is she's going to be woken up with a wake word. We're going to say, "Hey, Vicki." And then allows a patient to go ahead and express what they need. So, as you can see here, this patient has a severe headache.
+
+Vicki is going to be able to to kind of triage it, take it using uh Nvidia's large language model and being able to apply it to practicality. So, what she'll do is she'll listen to the tone, the words that they use, and then it's going to go into our virtual care hub. And with this, it'll allow virtual nurses or unit clerks to triage these patient requests and obviously get the right care team member there at the right time.
+
+If it's something that can be addressed by a virtual nurse, they can certainly start a call directly from this, have that encounter with the patient. If it's something that needs somebody at the bedside, they can obviously uh reach out to the bedside care team members and get them in the room quickly and easily.
+
+But they can obviously use this from a task management so they can see what those patient requests are, what their needs are, look at the criticality, and address them in a much timelier manner. So, so two questions about Vicki. Um Oh, yeah. Uh so f f first is I mean is she is she out in real life? Have you do you have do you ever have deployed in hospitals yet? We are looking for our partners to get her out there because we uh she's brand new to us and we've been playing a lot with her and she needs to get into the hospital setting. We need her to get engaged with patients and see what the
+
+patients response is. We internally think she's great but we want to get the patients responses and know what their their thoughts are about it. I mean but you've got then the next and and this I think is very common with anybody. So, you know, I I I current I mean completely above nothing.
+
+I'm using I'm using a uh a system now which has got a pretty good LLM based help function for a bunch of stuff that I needed to do. And every so often you see it's got stark. It can't it doesn't quite know where I'm going. It's way way better than the average, you know, click here. You can get the typical chatbot has five responses. It's way way better than that.
+
+and it can get to most stuff, but now and again I go, okay, I need a human and then they and then they click through and there's a human. But that interaction between what did the human, you know, the human has to figure out what did it already tell me, what do I already know and where I am, that's a little bit of a point.
+
+So I think that's something that would presumably I don't know if you've gone down the path of working through the connection between a virtual front end like this, which is, you know, AI and transfer to a human when a would need to. That's that's an interesting uh thing now to figure out. It's exciting times.
+
+It really and and the nice thing is it's just really kind of taking some burdens off the bedside care team members, especially if somebody can respond to it virtually instead of having a nurse leave a room and come in to answer something simple like when is lunch or you know when is when am I going for certain tests. It's just really going to help kind of augment a lot of that.
+
+And I think what's exciting is once we grow and develop, we're going to get into the agentic AI. So, we're going to be pulling in EMR information, obviously, the patient information, the patients behaviors, and and really kind of bridge it all together and and make it, to your point, Matthew, a little a lot more robust and and really fulfill the needs of both the patient and the care team. Yeah.
+
+And I'm sure that, you know, in the Vicki, you're going to have if you haven't already built in sort of, you know, the emergency stuff where, oh my god, this is Oh gosh. Yes. Get some human right, which is the same thing that that a remote nurse is doing already, right? Exactly. So, that that's great. So I think that will actually end up taking a lot of the burden off your remote right then in turn even more so off the nurses in in in person and I and I'd also assume that you know a lot of the the AI that's currently doing the watching you know there could be an interaction between the AI that's doing the watching of the of the of the cameras and the
+
+video and then I suspect you know as you go on I mean I always I kind of joke with people I say okay who who's what's the biggest therapy organization in America? now and the answer is chat chat GBT right and I suspect that as more and more people get used to this kind of avatar and you know a lot of people now talking about chat GBT and other and other LM for a bunch of random stuff and you're sitting in a hospital room you're kind of on your own yes you know you can imagine this kind of thing is going to pick up and Vickiy's going to have to get smarter and smarter
+
+about a bunch of stuff probably not including anything do with healthcare right I want to talk about the football yes about football yeah we did ask her we did ask her who's going to win the Super Bowl and she she claims The Buffalo Bills are going to win the Super Bowl. So, she's not entirely She's not entirely done given how they've been doing. If they can just get past the Chiefs, one of these.
+
+Yes. Exactly. Fantastic. That's that's brilliant. Well, so you've got really an amazing uh you know, paniply of stuff that you guys have built out over the years. And obviously with the introduction of AI and LMS, there's even more that that this can go to. So, Elizabeth, give me a sort of state of the play.
+
+I think you mentioned earlier you guys were in 1,200 facilities. give me some numbers about how many facilities you're in and and how many cameras and how many how many rooms you're deployed in. Just give me some idea where how big you guys are. Um yeah, and I think that's a very pertinent question because this is what um health system leaders are concerned about.
+
+They want to make sure they partner with someone that's going to be there three, five, 10 years down the line because this is a long-term partnership like we spoke about. So we are in 1,200 um hospitals across I think every state um in the US and Canada and um and with the strong financial performance that we've had for since I've been here over 11 years and what that means is we can reinvest in the Can you can you name some of your upon us? Which are some of the big hospital systems you're working with? Oh yeah, and I think we have it scrolling on our um website and those are those that have allowed us the permission to share. But I think we talked a lot and we've had some um great presentations recently
+
+from Hackinac Meridian Hospital and um UC Health is good one um Baptist Jacksonville um Trinity, all of Trinity, all of Providence, all of Ascension. Um, and yeah, many of that I could I could. And when you when you take this into hospitals, how long does it take before they and maybe this has happened a long time ago. How long does it take before you like they they hear a lot about hospitals. Well, this sounds cool.
+
+Let's pilot it in one wing or one floor or just one facility and then, you know, we have 25 or 50 hospitals in our chain. How long does it take to get from being that sort of we'll experiment to say, "Oh, this makes sense to do systemwide." How long is that progression? usually um I think that is changing rapidly um because of the big beautiful bill and this impending impending crisis that's coming and even tighter margins in 2027 here in 2025 um people are no longer dabbling.
+
+They don't have the time for that. They need the efficiency of virtual care and so we're seeing less and less of that. Let's pilot and you know see what happens. So um and I know that our time to ROI is very short like it can be within a quarter especially if you start with virtual sitting because that's so easy.
+
+Um so in the past I think there were were dabblers even 2023 2024 but nothing so things are things are moving on and then you mentioned ROI so uh how much do it cost to install and what is the ROI you said the payoff super quick give me give me a sense about what people are saving where where they're saving and what's yeah so on the virtual nursing side for or virtual sitting side for example it costs about with the technology and the staffing which is virtual sitter cost about $3 an hour to take care of a patient um keep them safe versus the 20
+
+$25 an hour if you had an in person. So that's a right there. That's the and and they hospitals have 30 40 sitters at any given time easily. So um that gives you an idea of how why it's so quick to in ROI and on that you can build the others. Very good. And then uh last question.
+
+You guys got a pretty big investment from well actually it was unnamed but an investment from Goldman Sachs a while back. Um give me a sense of the the the scale of the company where you're on revenue and then the question everyone's going to want to know is what happens next? Do you do you think you grow further? Do you think you IPO? would you uh where are where are you in the the sort of the world as you know I' I've heard rumors that if investors give companies money they eventually want it back so when that happened and um that was and heritage which is um an another private
+
+equity firm that really specializes in healthcare and so together they've just brought us tremendous amount of expertise and helping us take it to the next level which is really exciting And I don't have a crystal ball of what will happen next. Um, but I'm excited to be a part of it. That's for sure.
+
+Well, give me do you have a sense? How many how many people are there in the company now? About 230. Okay. And how many were there when you got there? Uh, there were probably 40. Okay. So, you've you've seen uh pretty pretty significant growth for the last decade. Um, and there were about 30 hospitals when I came and this was in 2014 and now they're 1,200.
+
+So I mean I pinched myself to be part of something like this from early startup to something you know really that's become the standard of care. Fantastic. Well it's I mean it's obviously a fantastic technology wave to be riding and uh it's it's you know and as we said it's also a change in how actually nursing is done and an improvement in how nursing is done.
+
+So I think uh you know that that that to me is is the important thing is that you know you're you're both sort of using technology to to to improve the the patient experience, improve the nursing and the care experience for everybody and that's what we need to be doing more of in healthcare. So congrats for that. Yeah. Fantastic. All right. Well, this is Matthew Hall.
+
+I've been talking with Dana Pekco and Liza V for I'll get your name right one day. who are respectively the AVP of clinical informatics and the chief clinical officer at Arbashaw rhymes with Larabashaw which as you hear is one of the leaders in I virtual and a lot more staffing help I don't I don't want to call the category but improving improving nursing using technology how about that thank you thanks great to talk to you
+
