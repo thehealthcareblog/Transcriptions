@@ -1,0 +1,62 @@
+Title: Miriam Paramore, RxUtiliy
+URL: https://www.youtube.com/watch?v=FcCjB-9LfZ4
+Language: en
+Duration: 11:00
+Upload Date: Mar 3, 2026
+
+Transcription:
+
+
+Well, quick bites at the five   conference. Starting off with a friend   and longer in health ter health tech,   Miriam Parammore. Miriam, hi.   >> Hi, Matthew. So great to be here.   >> All right. Well, great to catch up with   you. Uh, so I am now your part-time   research assistant. We'll get into that   in a second as to why as to why that is.
+
+  Um, but uh, first off, new company fee.   You've done a lot. We won't do your   whole career.   >> No, we won't.   >> But you've done some stuff.   >> I've done some things. Yes. Yes.   >> Um and you're relatively new company   now. Uh just a few employees called RX   Utility, right?   >> Yes, that's right.   >> So, what is RX Utility? What are you   trying to do?   >> So, RX Utility is a prescription   affordability platform.
+
+ And our mission   is to save people money on medicine.   That's why we're promoting cheap drugs   because we know   >> Oh, I thought I could get some cocaine   off you.   >> Well, that's not that. Yeah, it's an   expensive drug, but uh we know how to   help consumers find those prices in what   has been a very opaque system.
+
+ So, this   is a combination answer to why am I   still doing anything in the healthcare   system versus why am I doing this after   a career uh long career and helping to   build a lot of the systems that are here   today. I know the plumbing and the data   where it is and how it flows. And I know   where the skeletons are buried, too.
+
+ And   I know that we're not using that data to   show consumers how much just a simple   prescription costs.   >> And we we hide that from consumers. And   they don't know till they get to the   pharmacy counter whether they can afford   the prescription or not. So, we can talk   about the inside baseball of that. But   the fact is, we're living in a world of   consumer-driven health care, more cash   pay out-of- pocket than ever for drugs,   high deductible health plans, but there   are affordability tools.
+
+ There are   pharma sponsored copay coupons. There   about 30 billion of those uh dollars a   year for consumer savings, but they're   very hard to find. So, we created a   database of all of those pharma   sponsored copay coupons to use when you   use your insurance. They help to offset   your co-ay, your out of pocket.
+
+ We are   100% focused on the consumer's costs,   the consumer's out of pocket for   prescription drugs. After we launched   the company last year, we got a lot of   questions about cash. What are these   cash discount cards? You know, what is   Buzz or Single Care, Good RX? Turns out   there are literally millions of prices   uh for every pharmacy, for every drug,   for every cash discount card.
+
+ There's no   way for a consumer to find the best   price easily. There's no sort of Expedia   for drug prices. So what we announced   today is our best cash price catalog and   what we did was we aggregated all of the   cash discount cards. So Single Care,   RXense, Buzz Health, Mark Cuban, and   even the government website that will   not be named or ever mentioned on any uh   anything that I ever do.
+
+  >> Quick tangent. Uh you may have seen   Miriam on a podcast I did year and a   change ago which was supporting the   other person in that election. Go on.   >> Supporting the other person. Thank you.   That's right. That's right. But that is   a that is a set of prices. And so it's   very very confusing for the consumer to   know what does this medication cost me   and should I use my insurance or should   I pay cash? And so we wanted to we want   to make it simple for the consumer to   see the price of their medication and   their savings opportunities. That's why   we call it prescription affordability   platform. We put those things in an API   and then we put a little bit of   decisioning on it that is I'll get nerdy   here that's available through MCP server   which is something that's a thing now.   You can share intelligence point to   tools to each other. Um, and we hope and   and I firmly believe that this uh   consumer price transparency tool will be   something that begins to flow through   the health tech ecosystem that you and I
+
+  have done forever so that people can see   what drugs cost and find the best price   for them.   >> All right. So, the goal is that this   becomes a sort of B2B utility that lives   in all kinds of different places within   healthcare. You build it. Um, is the   biggest problem. You started with the   insurance part.
+
+ I've I've had lots of   fun and games as you've seen on the   health kog over the years looking at the   cost of did is it worth buying the   things through blue shield or is it   worth going paying cash to Mark Cuban   and you know why is Kmart charging five   times the amount and why are they   playing games with 3 month supply and   one month supply.
+
+  >> That's right.   >> Um   >> on the other hand we also have this PBM   reform that has just happened.   >> We do.   >> Um is that going to clear all this stuff   out and make you know RX utility less   useful or do you think it just adds   another layer of complication? Actually,   I think it's a really positive step   forward.
+
+ And the the my favorite   provision in the PBM reform law that   just passed is that patients will pay on   net price. So, I'll give you an example.   Um, Eloquis is $600   um per bottle. $600 for 90 fill list   price. When I'm in my high deductible   period and I go to get Eloquis, I pay   $600 as the patient, the consumer. But   if my employer were paying for it when   I'm out of my deductible period, my   employer or my health plan, they pay   $600 minus the $300 rebate that they   get.
+
+ So my employer pays 300 and I pay   600. So my deductible is $10,000. You   tell me how many bottles of bellas I   have to buy before I ever hit it. This   is why Mark Cuban says that your if   you're an employer, self-insured   employer, your sickest patients are   subsidizing at the premiums for the rest   of your population. And it's it's   absolutely wrong.
+
+ So that factor of   rolling through to let patients out of   pocket be paid on a net price is a great   thing for reform, but it has nothing to   do with the other components of price   transparency that we talked about, which   is secondarily what you just said. Tier   one generics, if you use your insurance,   are almost always more expensive than if   you pay cash.
+
+ But consumers don't know   that, so they can't make a choice. You   and you and I know that because this is   all we do is this nerdy data healthcare   stuff forever, right? So, and there are   these if you want to use branded drugs   that don't have a generic equivalent.   There are manufacturer copay coupons   just hard to find them.
+
+ So, we just made   that easy. So, just informing the   consumer. The other thing that we've   done to ourselves, which is why I am   still in this industry and still it's   masochism for sure, but we have the   data. We even have the transaction. We   have a real time pharmacy benefit check.   But guess who we won't let see the   price? The person paying for the drug.
+
+  We won't let the consumer participate in   that transaction. That's why I asked you   to be my forensic   um research assistant because Blue Cross   Blue Shield, I'm sorry, Blue Shield of   California announced last year that they   would put consumerf facing or member   facing real-time pharmacy benefit check   in their member portal so that you,   Matthew, could go easily on there and   say, "How much does Eloquist cost?"   Right? After about 15 minutes of you   recording yourself trying to find it,   I'm not sure I'm not sure I have a new   >> compounded right an answer. So the   tooling the pro the the data is   available but the expression of the data   is not democratized and that's what RX   utility is all about.   >> That's fantastic. I mean so I think you   know that's a general point which is   that most big healthcare organizations   have so many holes in their consumer   interface. I mean, so I'll give you an   example of Blue Shield is that my   primary care doctor. I can't I can He's
+
+  listed as my primary care doctor for the   HMO, but I can't search him to move my   kids. My kids just rejoined Blue Shield   after you can't search him and find him.   You have to call in 32 minutes on the   phone. People give up and don't do it.   And you know, same sort of thing on a   lot of the My Chart installs of, you   know, can you make an appointment? Well,   you can see an appointment, but you   probably can't edit it.
+
+ You have to call   somebody. There's a lot of things that,   you know, health big healthcare has to   get right. But in terms of uh just come   back to RX utility for a second.   >> Is this going to be a direct to consumer   play as well or do you think you'll end   up being a a button on a bunch of places   that consumers end up like hopefully   health plans or or their provider or or   >> Yes. Perfect question.
+
+ So I   intentionally named the company with the   word utility in it because I saw it   being a ubiquitous utility that's   consumed.   >> Not just you saw the head of PG gets   paid 40 million bucks a year or whatever    that   >> I didn't. I didn't. No, I didn't. But   that's a good point. Those utility execs   do make a lot of money.
+
+ Um, but because   I want it to really be digitally mobile   data, then it then I don't want to it   somebody to have to have another   surface, another screen or something   else. However, with that being said, in   the last year and a half since I started   the company, AI has exploded and being   able to create   um this guidance intelligence that just   sort of helps you conversationally   decide between um insurance and cash   >> and bring some of this data forward with   ease has meant that I do I do think   we'll be announcing in just probably   next month something that just that the   consumer can use. the consumer will   never pay to use it. But this would   allow people that have holes in their   digital front door and that you know   that care about affordability and um   consumer satisfaction or patient   satisfaction or med adherence or any of   this stuff they can use that tool that   intelligence they can consume the   intelligence and express it through
+
+  their AI agent. So the the tech that's   coming on top of the data is even cooler   than than what we have today. And the   last question uh and I'm not sure you   should have to ask this question but   American healthcare you do is how is RX   utility going to make money out of this   >> uh how we make money.
+
+ So we're actually   a data company   >> and so we uh have the two cataloges   today. We have the pharma copay card   catalog and now we have our new best   cash price catalog and people that want   to surface that data can um subscribe to   the data um just as you subscribe to   maybe Walter's score to like the medi   file is a good example.
+
+ Then we have   this intelligence layer and people can   consume that intelligence layer and use   it inside their own decisioning. They   don't have to sort of write that from   scratch. So, um, we we make money   through those subscriptions.   >> Okay. So, your your goal here is to make   it easier for somebody who's running   some kind of consumer front end service   to make that their consumer satisfaction   greater and they have to pay you a   subscription fee to do that, which is   that's exactly how software works.
+
+  Fantastic.   >> That's right.   >> All right. I'm here with Miriam   Paramore, CEO of RX Utility and   occasionally my part-time my my   part-time research boss when she sends   me tasks. Miriam, thanks for your time.   >> Thank you. Happy.
+
+
