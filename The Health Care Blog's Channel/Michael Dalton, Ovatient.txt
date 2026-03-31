@@ -1,0 +1,66 @@
+Title: Michael Dalton, Ovatient
+URL: https://www.youtube.com/watch?v=4_xiTdXhlac
+Language: en
+Duration: 9:41
+Upload Date: Mar 11, 2026
+
+Transcription:
+
+[music]   Matthew Hulk. Uh, quick bite interview   with TCB at Vive. My voice is going.   It's day three or whatever it is. Um,   this is Michael Dorton. He is with   founder and CEO of Ovation. And Ovation   is in the business of tella health and   Michael is going to tell us why we need   yet another different tellahalth   company.
+
+  >> Sure. So, uh, Ovation is a virtual first   care delivery company. It's built on   Epic. And so, when you have the vast   majority of health systems on the Epic   EMR and patients, there's hundreds of   millions of them that have a My Chart.   What we want to be able to do is provide   meaningful technology that both   providers and patients can trust.
+
+ And   then we create that opportunity for to   be able to keep patients connected to   health systems um that they know in   their community. So I like to call it   virtual first, local, always, never   virtual only. But where our focus really   is on that care continuity and building   a journey and a relationship across the   care continuum.
+
+  >> Okay. Um so lots of tele health   companies uh the teleox and amal the   world been working with health systems.   There are companies like uh Karee which   is kind of similar model to you trying   to work directly behalf of health   systems with and sort of wraparound   stuff with them.
+
+ Go back to my question   why do we need another one? So I think   for us um we've built an integrated care   model. So as you think about the Teldocs   or think about key cares usually these   are point solutions not a different care   model. So when you say virtual first   >> our team and our our care delivery uh   group   >> they are working as one functioning   group.
+
+ You think about uh Teddoc for   urgent care primary care behavioral   health those are all separate stacks   those are three separate offerings they   don't actually work as one unit around   the team around patients. So I think for   me being able to provide that integrated   product and solution and at the same   time I think most of those products that   you you've cited it's about being able   to provide access and uh at a point in   time for us it's over time that you want   to be able to provide those services.
+
+  >> Okay. You come out of the health system   world uh ovation is a is a joint venture   between some health systems and spin   out. uh given that sort of DNA, what is   the exact relationship between you and   the health systems that founded you and   the health systems that that you work   with?   >> So they are investors as well as   customers.
+
+ Uh they're innovation   partners.   >> Could you mention the names?   >> Sure. It's the medical university of   South Carolina.   >> Right.   >> In South Carolina and the Metro Health   System in Cleveland, Ohio. So they're in   Northeast Ohio.   >> All right. And sorry. And the rest Yeah.   So, so um what they looked at is uh so   one medical university of South Carolina   is a national center for teleaalth.
+
+ They   have started to build out a virtual   first specialty offering but in doing   really an integrated whole person model   that's based on primary care virtual   primary care that's hard work and being   able to do on epic it's even harder. So   I think that was an opportunity they   looked at is you know being able to take   this product and service to other health   systems was of great interest.
+
+ At the   same time, the services that they had   were largely even at MUSC   um often times cashbased. So they work   with fabric. Fabric comes in, they're   doing a virtual urgent care product,   it's chat. There's no video, you know,   product or solution with that. They   wanted to be able to use something that   then was comprehensive embedded in their   own workflows and their experience.
+
+ And   for Metro Health, um they largely needed   something that for virtual care, it   wasn't something they did well. Frankly,   honestly, it just wasn't something that   was basically audio only. It was often   times was a cultural thing. Here was an   opportunity, and we've seen this from   the very beginning.
+
+ Being able to use a   service that can bill insurance, which   is what we do, or provide a cash option,   um really like has threaded the needle.   The number one user for services at   Metro Health is Medicaid. Number two is   self-pay. Um at at MUSC, the largest   user is a Blue Cross Blue Shield plan   and state employees.
+
+ So we really   created a product that all users can   use.   >> All right. Uh what is the patient   experience? How do they find out about   this? How do they get funneled into it?   You know, how do how do you get from I   have a sore throat? I mean in my just to   give you an example, my world I think   I'm a blue shield of California member I   believe buried somewhere in their stack   is Teldoc, but also I'm a one medical   member and I and also I use UCSF.
+
+ All of   them have got some various tele health   options. Yeah. One on my chart, one of   them one p you know. uh I happen to use   one medical more than the others. That's   probably probably have a slightly better   app and I have a slightly better   relationship with them, but it you know   I could do anything.
+
+ So there's that and   then obviously there's like urgent care   around the corner with kind of how do I   I mean   >> God knows how I end up at whatever I end   up at. But how does this how do you deal   with that issue?   >> This is exactly what I what I we spent a   lot of time looking at the digital   experience and workflows for patients.
+
+  And so what you just articulated is why   we've taken an approach that there's no   wrong door and there should be no dead   end because patients there are a lot of   patients that come in through their my   chart and we've embedded our services   there. There's patients who come in   through their uh the access center.
+
+ So   somebody calls into MUSC an agent there   can actually book they can see our   templates and book using epic technology   called book anywhere. Not a lot of   health systems are are using that but   MUSC has used that to provide that real   access. And at the same time uh we've   embedded our patients uh our providers   in uh the provider directory.
+
+ So those   patients who go to the web you they have   that access as well or they're coming   through a clinic they're able to make   that referral to innovation provider as   well. So really it's there really should   be no wrong door for that patient. Uh   that's kind of what I call a digital   health home. You've got multiple doors.
+
+  They're all leading to one central   place.   >> But uh go a bit wider there. you know   that's if they sort of kind of know   where to hit one of the provider things   there's as you know other tele health   options out there we haven't mentioned   the director you know consumer versions   like hins and row and all the you know   god knows what else there is out there   and you know super bowl ads and all the   rest of it I didn't see you run a super   bowl ad yet so um so [laughter] so give   me a sense of how you thinking about   customer acquisition as a whole because   I assume that part of your you know   interest as your founders and your   investors is to you know make sure   there's people coming back into the into   the main system.   >> Absolutely. So, uh I would say about 2/3   of our um well a third of our patients   are return customers. So, as we continue   to grow the service, people are coming   back and utilizing the service again and   again and again. Um so, as we think   about from a yo
+
+u know customer   acquisition, is that what you're getting   at or Yeah. So I think from a a customer   acquisition point of view um you we're
+
+  trying to embed our providers, our   solutions within the health system and   where they would be able to typically   find a a visit. Um we have you we've had   some competition or consideration where   people see us as are you competing with   it. Um we want to provide like a direct   to consumer brand or service.
+
+ We give   them all the content to the marketing   and comms teams to be able to then place   and say, "Here's how you talk about   virtual primary care. Here's how you   talk about virtual first care." Because   most health systems, this is not   something that they've advertised. It's   not something that they've had to   utilize before.
+
+ So, they're using their   own social channels. They're using their   own internal comms channels. Um, we've   given them basically that package. Also,   we give them a great opportunity to go   to employers. So,   >> so is this white lighted by the way in   the name of the health system? Um so   part of it is white labelled um but you   will see sometimes you know in   partnership with Ovation but it really   leads with the health systems brand and   then as the health system is going and   selling these services as well they're   taking them to employer groups that   might be pushing a TEDoc through their   payer innovations that featured offering   to be able to keep them connected to the   health system.   >> I've I've teased others about the   dinosaur preservation strategy and you   might be doing that. All right. Um   uh last last quick thing. So give me the   give me the thumbnail sketch about   innovation the company obviously you you   come out of the systems   they funded it how much money you rais
+
+ed   how many people how many patients served   so far where are you in the process so   uh to date we served uh over 60,000   patients uh we're coming up on our
+
+  2-year anniversary uh from having   started uh providing care in April 2024   uh we raised uh close to $10 million um   and we're doing about 10 million ARR um   and so the trajectory   >> almost almost real revenue almost real   money and uh   >> if I come back in two years time three   years time what does good look like   >> bunch more systems on the on the   >> good looks like that we've taken the   intentional time to bring on probably in   two years another six customers   >> um we want to be focused on how do we   provide those services in the community   >> um and at the same time uh we'll grow to   additional specialty services so we're   doing a lot of weight management right   now it's not that we're advertising   patients are coming to us. You talk   about him as row they're coming to us   because they trust that   >> I've heard rumors there's a drug that   you can take the   I've heard rumors   >> but also I'm sure you've seen recently   that uh after 3 years many patients they   no longer are 
+
+on a GLP1. So there's
+
+  still options in that weight loss   journey that whether it's you doing   beriatric surgery or another weight   management program that we need to keep   them connected to. So that that's where   that care continuity comes in. So we'll   grow additional specialties like   cardiology, rheumatology, endocrinology.   U really building out a more   comprehensive virtual multispety   practice.
+
+  >> All right, Michael, I will come back and   check in with you in a few years and see   see whether that works or not. I'll be   talking with Michael Doran, CEO of   Michael, thanks for your time.   >> Thank you, Matthew.
+
+
+
