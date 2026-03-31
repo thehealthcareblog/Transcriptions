@@ -1,0 +1,93 @@
+Title: Oren Nissim, Brook.ai
+URL: https://www.youtube.com/watch?v=avGm_DXHZMw
+Language: en
+Duration: 15:34
+Upload Date: Mar 4, 2026
+
+Transcription:
+
+Mask your hold on the TCB spotlight. I'm   here with Orin Nissen who is the CEO of   Brook AI which uh is I would say what   >> remote care company   >> remote care I was going to say   relatively new entry into the remote   care space. There is a uh whole bunch of   stuff that's been going on for several   years in remote care and uh Orin, what   do you guys do and why is it different   to all those other remote care companies   that we've seen over the years?   >> Oh, good.
+
+ So, uh we provide the uh services under a supervising physician   riding to patients at home. It's kind of   basically as part of the extension of   the primary care to the home. Uh so we   encapsulate all of the technology and   all of the assets of like AI and devices   in the home etc. under a fully reimbured   model.
+
+ And so one of the key differences essentially is in uh what then happens   with patients. So patients under our   care stick on the platform for a very   long period of time. So we have an over   82% retention year on year on the   platform. Uh the outcomes have been   dramatic. Uh we released uh last year uh   the evidence of reducing UMass's   readmission by over 50% on their   cardiovascular risk patients.
+
+ Um, and   our net promoter score on the patients   is 66, which is Apple level. Um,   >> higher than health plans, I'll give you   that. Right.   >> It's a little higher than a few things   out there. So, when you ask me what's   different, it's not about technology.   It's about how to make that matter. And   how to make that matter is having   patients remain on the bathroom for a   long period of time, be happy with it,   be able to collect reasonable   reimbursement for that, and be able to   create a sustainable model. So before   before we talk about the future because   there are some changes as we know coming   up to the to the future. Um what is the   what's what are the main conditions   you're dealing with? What are the main   what's the main sort of device plus tech   platform that you're that you're farming   out there and who are the main kinds of   customers?   >> Sure. So it's uh primarily the cardium   metabolic risk world and so in reality   it's all the way from simple   hypertension all t
+he way to very complicated uh heart disease. It's all   the way from simple pre-diabetes and all   the way up to you know complicated uh
+
+  you know multiple uh complications of diabetes like for example kidney disease   etc. Um and so most of the patients on   our platform have uh multi- chronic   conditions. It's mostly Medicare even   though we do have some commercial and   state populations as well. Um and we   primarily after trying a few different   things we make primarily as part of the   provider world.
+
+ Uh but the one key difference is uh in our world the word   customer means patient. The word uh   partner means health system. So we don't   really sell to a health system. We   partner with them. Uh we take those   populations at full risk. We deliver a   reimburseable service and we essentially   collect their money from you know when   payers actually pay for the service.
+
+  >> Okay. So let's unpack that a little bit.   There are CPT codes for remote remote   patient monitoring, uh, continuous   >> chronic condition,   >> chronic condition management, remote   therapeutic monitoring and all of the   above, right? Um, you can run one of   these companies where you just get that   fever, get the fever service ready for   the CBT code and somehow split it with   the provider.
+
+ When you say you're taking full risk, what do you what do you mean?   What does that mean?   >> It means that when we partner with the   provider, we say, listen, we're not   actually asking you to deploy any   capital. we're asking you to uh uh   essentially partner with us, prescribe   this to your patient. So, it's a   medically prescribed service in the end.
+
+  Uh and so we want the provider to be the   one saying to the patient, "Hey, I think   we need to put you on remote care." And   you know, Brooke is going to be as our   partner is going to be taking care of   it. We will then be the one uh deploying   devices to the patient's home. That's   going to be at our cost.
+
+ we're going to   be the one deploying a care team to help   support that patient as an extension of   that primary care uh experience if you   will and that's also going to be at our   cost and we are doing all those things   based on the fact that we you know are   an actor that knows how to do those   services well document them well at the   end of the day and go back to Medicare   to get that reimbured and so we are not   asking them to pay us for things that   are paid for   >> all right so you at some point you got a   you got a deal going with the uh of how   to how to split up that CPT revenue. Um,   >> we do not split because that's illegal.   We provide an underlying service. We let   them, you know, collect the fees for the   CPT codes and then   >> and that they pay you. All right? So,   when I say split, they will pay you out   of the money that they get. I always   tell my startups, you need to figure out   that if you are selling somebody a   service, they are able to resell somehow   resell t
+he service or get more for the   new than they're paying you. And you've   figured that out, which is the right
+
+  way. What about the world of you're in   different places? What about the role of   value based care and managed care   capabation? Do you have any of that as   well or is it all dependent on the CPT   code?   >> No, most of the people that we work with   essentially are dealing with   populations.
+
+ Part of them are at risk   like an acco model. Um and in those   situations we will uh do some sort of a   bundled service together with them. In   those in in in that way we are doing   more of like a peractive per month type   of a model. So again, when it's all said   and done, we are only accountable for   the people that remain active on the   platform and participating.
+
+ And so   ultimately, we get paid for people who   are actually using as opposed to some   sort of those flat models whereby you   get paid for population.   >> So let's talk about um outcomes. There's   been some fuss lately about, you know,   fraud in the RPM business. There's where   true or not. you know, there's a   question of whether people using it 15   times a month or more than two a month   or all these sort of stuff going on.
+
+ Um,   and then, you know, there have been some   questions about how much of a difference   it makes. You mentioned some work you've   done with Western Massachusetts, but   give me some more sort of case studies   about what you've seen that as a   taxpayer. Is this worth me paying for   this?   >> Yeah.
+
+ So, for example, uh, the high   potential population that we take care   of. So uh as you know the the the   grading of what is a hypertensive   patient has been changing a lot lately   but when you actually talk about   hypertension control which is one of the   lead things that if it's not in control   will end up at cardiovascular higher   risk.
+
+ Um so the populations that we take   care of on average get to hypertension   control after about 10 weeks and stay in   control for a very long period of time.   There was a study released by Westing   York Hospital called ECMC about and this   is a a   hospital where by law that is actually   state population um that population has   now increased the control function by   over 50%.
+
+ So sorry I can say it in   another way more than 50% of the   population who is under management has   achieved control within 10 weeks. Um   when you talk about diabetes uh so in a   population whereby the A1C is about nine   we see an average of a 2.3   uh points reduction in the A1C which   means we get essentially them back into   control.
+
+ Again Matthew we're not   inventing healthcare here. The only   thing we're doing is we're saying if you   stay on the patient if you keep them   engaged if you keep them you're going to   achieve control and then you don't need   the GLP1 drugs you don't need the more   expensive stuff. So what is the secret   source that works? Is it the repetitive   measurement? Is it the cajelling from   the coach? Is it what's going on inside   Brooke and inside your relationships   with your providers that actually makes   this work?   >> You know, I I started this thing because   uh I have to have a complicated version   of type two diabetes myself. And so in   some way,   >> you're a skinny guy. How that happened?   >> You might if you're going to have type   two diabetes, you might as well be 300   lb and eat a lot of eat ice cream. But   oh well, what can you do?   I think it's all about, you know, can   you keep this um in some ways not ex I   don't want this to be exactly top of   mind for me all the time, but I want to   know that I have some agency and I want   to know that I can keep it in control.   Now, in reality, if I need to do it   myself all the time, I'm having a hard
+
+  time with it. And so, if I can get this   little nudge, this little something that   is sort of almost like a little angel   that's sitting on my shoulder and   intervening in the right moment in the   right time, I will generally speaking   pay more attention. then by paying more   attention I will ultimately be able to   achieve better control over it.
+
+ So this   is not about you know let's push a new   drug. This is about how do we keep this   present and how do we keep being able to   tweak back your behavior whenever your   behavior is going so that we keep you   back in control. Not necessarily daily.   This is not about that. This is about   longitudinal.
+
+ So how do you keep you in   control over the period of the week over   the period of the month you know so you   can really avoid the bad things. So how   much of that for cardiumabolic and   diabetes and high blood pressure? How   much of this is to do with medication   and medication adherence and how much of   this is to do with you know diet and   exercise and lifestyle change and you   know not not not drinking beer at 4 in   the morning or whatever.
+
+  >> You know a lot of people ask that   question and they ask it because they're   all looking for okay what is the one   handle that if I pull on this handle it   magically works for everybody.   >> You can't fix healthcare by one magical   handle that's really you know I don't   know why you're bothering but go on.
+
+ So   the reality is that you know everybody's   uh strategy is a little different and   what works on you might not work on me.   So maybe I'm willing to take on some   sort of a diet challenge for a little   bit of time and maybe after that   something else happens. Um and being   able to understand where a person is in   their life cycle and what is the right   intervention to do at that moment in   time is the only thing that really   matters.
+
+ So how do you build a system   that is by design accustomed to change   constantly as opposed to no I need you   to do this one thing and that is the one   thing that's going to work. So tell me   about that. You have the word AI buried   somewhere near the name of your company.   I assume you have humans as well. There   must be outreach to patients talking to   patients.
+
+ That's work that clearly can't   be in general can't be done that hasn't   been done by traditional healthare   system and you wrap around that.   >> What does that look like from the   patient? They get a call from a human.   They get what do they get? What's AI?   What's the back the backend system   counting and measuring?   >> So uh we do a lot of data collection at   the forefront, right? So we provide uh   people with some devices.
+
+ We'll provide   them with a wearable or we'll connect   with whatever device that they have   right now that they're already using.   We'll use that to ingest a lot of   information and essentially build almost   like a digital twin of use so we can   really understand and analyze the data   and then all of the nudging uh which is   going to happen at the front end.
+
+ So   texting, calling um you know inapp   notification, all of those things are   all going to be you know driven by a   really deep understanding of your   profile and then what will hopefully   work for you. So, you know, for example,   catering to who you are, meaning I don't   know, you don't want to be talked to in   the morning.
+
+ So, figuring out that who   should not be bothering you in the   morning is a pretty big deal, even   though it sounds like simple. Um, you   know, talking to you in the right   language, in the right voice, all those   things are things that that AI can adopt   to very easily. So, we use a lot of   those functions to drive, if you will,   the sort of the right message at the   right time.
+
+ That's the way to keep it   present. And the way to scale up to a   human is the ability to identify that   something's actually now going wrong or   off or whatever the case may be and be   able to say, "Hey, you know, the care   manager is here and would like to talk   to you or if you have a question, we   would like to refer you and sort of make   it into a 24/7 easy to use thing that   you can just like, you know, place a   call that's going to take you 30 seconds   and put you back into it as opposed to,   oh, I need to schedule an appointment. I   now need to wait for my doctor." all   those things that people really don't   like to do which is why usually that   fails. So as the baseline communication   all tech AI is that voice and text and   IM   >> and then something goes wrong I get to a   human.   >> Yeah.   >> What's the r what's the if frequency of   messaging or frequency of touch points   what's the rough ratio? Is it like 9 to1   or   >> I would say that about 65 70% of   communication is g
+oing to be handled by   AI because you know when it's all said   and done you know most people don't want   to necessarily need to talk to a human
+
+  all the time. Uh but that 30% might be   the most impactful 30%. Yeah.   >> Um and so that I think that's a very it   also changes by condition. For example,   cardio people who go out uh home with   Brooke because they've now released from   the hospital because they've had a CHF   admission which is something that   happens these days.
+
+ Um we follow their   home. There's going to be a care manager   talking to them on the phone multiple   times in that first week. Uh getting   them to feel safe, getting them to be at   ease, etc., etc. Handing them over to   technology a little later. So it's a   little bit about okay where you are also   on the adoption curve and frankly age   matters too.
+
+ Some people are going to be   comfortable with this right off the bat.   Some people are going to take more sort   of getting used to it.   >> And one of the numbers been on uh you   you mentioned uh uh uh persistence and   improvement and whatever. What's the   numbers been on cost?   >> Um so I think one of the key things that   we worked really really hard on in   trying to make sure that we can do it   within the reimbursement brackets.
+
+ Uh so   when you actually think about what's   being paid for today for interventions   in the world of you know RPM, CCM etc.   So you think about you know call it 110   or 120 bucks a month in total   reimbursement available. Uh we've been   able to do that for um you know keep   keep it within those brackets and at the   same time deliver those outcomes.
+
+  >> What about saving the do you calculate   savings at the other end? If I've got a   population where I've moved the needle   on A1C on me on blood pressure, I mean   is that saving the system? Is it like   going back to being a taxpayer? Is it   worth it?   >> Yeah. Yeah. Yeah. Agreed. So if we speak   about that CHF example that I just gave   you that we saved, you know, about 50%   of those readmissions.
+
+ So you know,   think about every single one of those   readmissions is $7,000,   you know, on health tax for it. So if   you calculate how much does this   intervention cost, which is about a,000   bucks a year, I would say it's totally   worth it. All right. Um, interesting.   Uh, and I think that, you know, that   will be something that I mean hopefully   be growing growing in terms of people   paying attention to that is and and   we'll get some good data of that and   hopefully keep driving the cost down   with the AI. Uh, let me ask you just   basically about the company. Um, how   long you when did you find it found   this? How long you been doing it? How   much money have you raised total? Where   are you in sort of scale at the moment?   >> Uh, we founded it about 10 years ago.   bootstrapped in the beginning, you know,   worked just a very small group of us,   you know, started to get more, I guess,   institutional funding, you know, in the   later years. We announced our series B   uh middle of 202
+5, >> which is how much >> uh $28 million. So, in total, about $4
+
+  million is what we raised for the   company so far. So, we've been, you   know, one step at the time and trying to   grow a increasing base of uh patients.   Um, so not like uh we we're not on a   huge spending spree. How about that? You   know,   >> uh, how many patients on the system?   Give me a sense of the ballpark of where   you are with clients or patients.
+
+  >> You know, there's there's tens of   thousands of patients on the system   right now.   >> And, uh, if they come back here in 3   years, what does good look like in terms   of patient systems?   >> I think somewhere between 700,000 to a   million.   >> I understand there are 30 million people   with diabetes and God knows somebody   with hypertension.
+
+ So, you know, should   be easy pickings.   Nothing is easy in healthcare as you   know,   >> right? Fantastic. I see you Orin Niss,   he is the CEO of Brook AI. Thanks for   your time.   >> Thanks so much.
+
+
+
+
+
+
