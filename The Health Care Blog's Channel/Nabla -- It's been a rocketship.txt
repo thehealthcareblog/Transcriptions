@@ -1,0 +1,62 @@
+Title: Nabla -- It's been a rocketship
+URL: https://www.youtube.com/watch?v=SRVLyGTUUh0
+Language: en
+Duration: 12:01
+Upload Date: Nov 20, 2025
+
+Transcription:
+
+All right, Matthew Halt Spotlight. A   quick check in with my friends at   Nabala. On the right is Alex Lebron, the   CEO. On the left is Elin, the COO. She's   now a New Yorker, even though she has   that funny accent. Alex is still based   in Paris, but you're raply becoming an   American company or Americanbased   company.
+
+Um, Naba is one of the leaders   in this whole ambience driving space.   Two years ago, we were in a tiny booth   here. You were just getting going uh   with the American market.   Now you have 35 people in New York. You   told me a bunch more. 38 bunch more in   bunch more in Delphina's an expat living   in a park park avenue view penthouse.   >> Absolutely.
+
+>> All that stuff. All right. Uh   >> two years what has changed?   >> Um many things have changed. Two years   ago we need to do a demo of the product.   Nobody knows what we do, what is AI. Um,   and the product was a very simple and   generic one size fits all summarizing   solution.
+
+Uh, so fast forward 2 years,   people are very very educated. The   expectations are very high. They want a   lot of accuracy, specialty coverage,   integrations with the charts and they   know exactly what they are looking for.   And it's um it's almost obvious for   providers to use an AI ambient AI tool.   The question is which one is the best?   But we don't have to convince people to   use this kind of technology.
+
+So in just   two years we we went from zero adoption   to almost full adoption.   >> Yeah, it's I the market explosion has   been incredible. Deline, now you're here   bossing the Americans around. Give me   the state of play. How how many clinics   users systems is NAB in So yeah so two   years like what has changed is growth.
+
+Today to give you uh some data figure we   have about um 150 customer like trusted   customers   >> 150 systems organizations yes   >> 150 health organization   uh so mostly health system academia   centers hospital private health system   midsize clinic so we have about 100,000   clinician using Navla every day great   traction and I would a an amazing team.
+
+The product also has changed a lot. I   used to say that scribing is only a   feature. So now we have more   capabilities.   Uh we streamline a lot of clinical and   financial workflow, dictation, orders,   coding. This is uh exactly what is on   our road map vision. If you don't have a   unified product, uh I think it's very   hard to build a sticky product.
+
+So long   gangster sir but uh yeah the US really   require an ambitious vision behind   >> so you guys did a partnership with some   unification remind me who that's with   >> a partnership with   >> you didn't do a partnership   >> I I made now there was one uh so I let   me the bigger question you asked is oh I   know which one of you wants to take this   is regarding all that other stuff we've   heard a lot from the the the folks in   the British elsewhere about getting into   things like prior authorization.
+
+So spreading beyond the scribe, spreading   beyond the node, doing other things. You   mentioned orders and this that and the   other. How far downstream are you guys?   Who are you touching and working within   within that space? And how is the   product evolving now that everyone's   figured out how to do a you know how to   basically do a note?   >> Uh yeah.
+
+So we are expanding very   quickly into adjacent uh workflows   before the encounter after the encounter   with a combination of things we build   ourselves and partners. So we are   actively talking with many potential   partners to accelerate this expansion of   the of the product   >> and tell me what the market looks like   now that people understand it.
+
+Initially   there were a couple of incumbents who   had pretty high prices uh notably Dax   you guys came in certainly as a product   like growth at a at a lower cost point.   We've heard a lot about you know free   versions of it from Doximity and you   know who knows who else. Give me a sense   about what people are expecting and   whether the market is sort of settled   down at a pricing level that makes   sense.
+
+>> So the market is expecting first very   good EHR integrations. It's not like a   nice to have and especially where we are   going in RCM in pre-charting you need   very very strong integration. Uh this is   new by the way 2 years ago these things   were almost not integrated. Um and then   the market is expecting a very deep   specialty coverage uh doing like generic   uh documentation is not enough.
+
+So every   uh specialty, every organization is   expecting a very customized uh   documentation. Uh so expectations have   have moved up uh quite quickly. In terms   of uh pricing, actually we never changed   our our pricing since uh 2 years ago. Uh   and I think the bucket is uh is   converging to this pricing.   >> Okay.   >> Which is Yeah.
+
+>> Which which was low. So let's get on to   the uh the obvious uh the the the   obvious uh uh topic of of the day when   you talk about ambient scribing.   If I go back to your experience with   Panenti, you were you were the you were   the first ones on on as the Americans   say first on base and you were call out   unfairly a second in my view.
+
+They just   switched over to a bridge because they   said it was then integrated and of   course at that point both Kaiser and   Epic had a financial interest in that   switch. I know Kais are still going with   a bridge. Epic itself is now doing   something weird with Microsoft where   it's coming out with its own.
+
+Has that   frozen the market? Are they too late?   What are you hearing about people? I   still hear people saying I'm waiting for   Epic to do something. What are you   hearing?   >> So what we are hearing is um it will   take some times for for Epic, you know,   to get this right. And we haven't seen   anyone waiting for waiting for that.
+
+We   haven't seen any impact on our uh on our   sales so far. Um everybody knew that   Epic would announce the the like a sort   of very simple like like Epic basics   scribing inside Epic. Um but I think as   I said the market now is expecting much   more um specialized documentation. Um so   we haven't seen a big change of the   market since they announced it.
+
+And I in   some way it's positive for us because   now everybody is in the same toolbox   category.   >> Yeah.   >> In Epic there are no there used to be   >> there are no favorites. Now they've had   to get rid of that one.   >> So we feel we are like even it's more   competition on the products which we   like.
+
+So we are we see that as actually   very positive development.   >> And ballpark of your 150 systems how   many are Epic and how many are other   EMRs?   about half are epic   >> and the other half is on the long tail   of we have about 20 EMR integrations. We   are actually announcing   at a new product called Nablac connect   that makes it very easy for um EMRs to   to integrate uh Nabla without spending   uh a lot of time or a lot of resources.
+
+So we want to we want to have a full   coverage 100% coverage of EMR   integrations transition.   >> That's right. And then uh big picture   last question. So how many if if I mean   I'm a one medical member. They had to do   actually you I'll tell you a story. You   may not know the the story. So I went in   to see my GP who happens to be the   medical director and I took Naba.
+
+I had   downloaded it as a doctor which I was   supposed to do. took it in and I had the   counter with him and I had used uh   Bridg's original consumer version the   first time I did it a couple of years   ago didn't work well and they've   obviously been for massive iteration so   I'm not critical of them but I used now   I did it and like I sent him the the the   scan and the patient instructions and he   like went oh and he went back to Amazon   HQ and said we better get our act   together and now when you go to medical   they have their own because that little   incident he told me pushed them into it   So um how many American how how big is   the market left for people who are not   using ambient scribbing? How many more   people are going to do this? And how   much is almost the progress going to be   in all the other stuff you have to   surround it with?   >> So we estimate that only uh 30% of the   market of of traditions are using   ambient AI or scribe today. Uh so so I'd
+
+say the two3 is still uh you know is   still there and these you know the these   two/3s will be harder to get because   these are people with uh specific   specialties higher expectations you have   specific needs and so it takes more   personalization customization better   integrations to to capture the this part   of the market.
+
+So last question and maybe Dolphin this one's potentially for   you. Uh and maybe the question is   answered by what Alex just said, but uh   you've got uh obviously the amount of   money. I mean you guys have raised a   decent amount of money. Some other   people in this space have raised a   pretty crazy amount of money but dwarfed   by the massive insane dollars going into   the big LNS right to open AI and entropy   and these guys right who have billions   and billions.
+
+And now you may have noticed they're now hiring healthare   people all the rest of it. What do you   think they're going to play out? Are   they I know I hear that rumors on the   bridges saying they have a fortune in   tokens and whatever. What do what do you   think is going on with the big LMS? Are   they going to be partners? Are they   going to come after you? Are they going   to build the super intelligent thing   that makes everybody else in the   building irrelevant? Where where do you   think that's all going?   >> For sure there will be like   consolidation of the market as you say.   Um that's a great question because uh if   your company is dying I you don't ask   this question. So with uh this uh player   lot of money resources for sure   consolidation again will happen. Um but   I think uh as a COO like the way I'm   thinking about this is not to think too   much about this meaning customer user   feedback from clinician is really what I   want to pay attention to. Um so I feel
+
+if you want to build a sustainable   company sometimes you just need to focus   on like the priority and for me   priorities growth customer trust having   a great product and then we see what   happened with Nabla and all this high   craziness around the IO   >> very good you trained her well. All   right, last thing.
+
+Let's talk to the AI the AI veteran brain. Uh, agentic AI   plus driving plus all the other stuff.   How much of what is done today in   healthcare will not be done by humans in   3 years.   Is this a really big screaming deal or   is this excessive hype and we'll be   doing the same in 10 years time?   >> I think most of the administrative   functions uh will be done by AI.
+
+uh everything that doesn't touch the some   somehow you know touch or probably with   the patient   uh will be uh highly automated uh in the   coming maybe not three but 5 10 years uh   so I said most of this uh side of   >> well you better all get the work done   all right I've been talking with Alex   Lebron and Deline from Nala thanks guys   congrats on the massive progress in   America thanks
+
