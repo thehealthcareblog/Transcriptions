@@ -1,0 +1,61 @@
+Title: Matthew reviews ChatGPT Health
+URL: https://www.youtube.com/watch?v=v_S7bIsPz0g
+Language: en
+Duration: 00:12:40
+Upload Date: July 24, 2026
+
+Transcription:
+
+Okay, Matthew Holt from the Health Care  blog here with a very quick little look  at what Open AI and ChatGPT Health are  doing. ChatGPT Health has just become  generally available and this is the  version that allows you to bring in your  data from across wherever your data is  across the internet in America and who  knows where.
+
+I have all the data at One  Medical, I have a lot of data at UCSF  and I started doing this and then I  thought, "Hang on, I should let all you  lovely people see what's going on." It  was a bit of an interesting experiment,  some things worked, some things didn't.  It is able to do some things and it's  not able to do others, but well worth  taking a little bit of a look.
+
+So, here  goes. I've just started the  ChatGPT Health linking with my  data and it's pulled in a bunch of stuff  from One Medical.  Let's see what actually happens. Now,  I'm going to go connect it. It's giving  me a bunch of other choices.  UCSF, I have a ton of data at.  It's asking me to log in, which is okay,  but have they bothered working with  Pluto instead of Be Well for this? They  wouldn't have to bother doing that.
+
+But  anyway, let's do that. What I wonder is  they're going to find a lot of this  stuff is already in ChatGPT because I've  been using it to deal with my own health  for a long time. Well,  most of this year.  And here we go.  I'm in UCSF.  I've cut a little bit here because it  opened up another window which Zoom  didn't record.
+
+It asked me which  different things I wanted to bring in  from UCSF and then later on I finally  figured out that it was asking for how  long I wanted ChatGPT to have access and  once I clicked all those buttons, it  then went ahead and did it.  And it brought it in. Okay, that was  pretty good. That was like less than a  minute and a half.
+
+It found a bunch of stuff.  400 labs,  immunizations, procedures, care plans,  vital signs,  and documents. I assume that includes  the test results.  Okay. Let's see what it's got when I'm  at One Medical.  Now it's going to go and take a look at  my data.  It says it'll just take a moment.  Wow, that's not bad.
+
+It says I'm looking  at my records. I have severe  osteoarthritis, which is true.  I'm being closely managed with planned  surgery. It doesn't know everything, but  it knows some things. Blood pressure is  doing okay.  Cholesterol is doing okay. I'm not sure  how it knows that. Although I did just  get a blood test today, so I wonder if  it got today's blood test.
+
+My galleries  managed and my A1C status status stable  pre-diabetic. And everything else is  being okay.  Well, that's pretty cool. So let's see  what happens next.  So, now it's there. Now it's working.  Look, and it's got a bunch of recent  results. These were actually from today  cuz I went to see my doctor today and I  had lab work yesterday.
+
+I don't think  this triglycerides number is wrong um  cuz I just had a meal before I did that.  And it doesn't have my iPhone health  connected cuz I don't have it.  Now it's asking what I want to do. Well,  that's pretty interesting. Let's ask it  um  my lab  values. That should know that. Let's ask  it uh  Can you  see my imaging reports?  What  do they tell you?  What are these?  Um  What do  I got osteoarthritis, but  it's smart enough to know I can't do  that.
+
+Now, uh it doesn't tell you this.  But it's got one report out there that  turned out to be the knee study.  Um, the imaging stuff I've had I've had  in the last year, three echocardiograms,  a heart CT, fused cuz it  needs access to health. I thought we  were in health.  Now, it's going to connect health. I  don't know what that means
+
+Didn't I just do this? So, now I'm  confused.  I thought the health was the one we just  did. Here we go.  Now, it's got that in. So, for whatever  reason I had to be led back into that,  the thing that I'd just done, the thing  I'd just been at. But, now it's looking  like it's actually looking at things  like my pump function,  my left ventricle, the right side of  pressure.
+
+Good.  But, it cannot see the full narrative  imaging report text here.  I don't know why not.  Um, let's do this.  Let's ask it. Can you  see  full  narrative  imaging  report  uh,  echo. So, that's interesting. So, it's  gone to UCSF,  um,  where it can't see the full  cardiogram.  And it doesn't look like it, um,  can see the text for the angiogram,  which by the way showed that I was in  very good heart health,  other than the fact I have a bicuspid  aortic valve, which is a genetic defect,  and nothing I've done to myself, which  is very annoying.  So, uh,  that's odd. I guess I can see if I can  Let's ask it what it suggested there,  which is to separate the valvus
+
+nonvalvus.  So, the valve is screwed.  [laughter]  As well as which basically means I need  surgery. Everything else seems to be  okay.  No clue what it's like heart health, no  heart failure.  Uh, other conditions, hypertension,  hyperlipidemia, I have that  pre-diabetes. Yes, I'm an old fat  American.  Um  Uh  but  can you see  signs?  blockage  I'll ask it.
+
+And then let's while I'm on  this, quickly go back to  UCSF  and  I'll go log in and then I can go look at  the energy of the ground result.  So, this is the result.  Um  Okay, so let's see.  Let's go back to  ChatGPT and say  the  So, then you can find it.
+
+Oh, no, it's found the report.  So, it can't open the text. That's  weird.  So, now it's going to ask you to to to  add in the text, so I can do that cuz  it's, you know,  for what it's worth.  I don't have the answers. I don't have  heart disease, but let me shove it in.  And we'll see.  I think I've already put it into  ChatGPT.
+
+I've certainly put it into  Sci-Fi Cloud.  Cuz I've been dumping all of my imaging  reports in there for ages.  So now  So what it's basically saying is that I  have no problems with heart disease.  But I had to go and look at it for it.  So it got some of the data. It did not  bad. But it wasn't complete. So you  know, it's going there.
+
+I wonder why it  can't read this. Let's ask it.  Could  you not read  that?  cardiogram  It's trying to find out what the answer  to that is.  Oh, I see. So the echocardiogram,  I get this now. Ah, so here's the issue.  So if you look at the ECSF,  it's got the cath report. The angiogram  is just a a text report. If I look at  the echo, where's my echo? There's the  echo.
+
+It's got a bunch of text here  and here. I think it's actually a  separate  uh maybe not.  Okay, I'm cutting a little bit here  because I went looking to see if there  was a separate data-only echo report and  there wasn't. So I don't know how it's  getting the data out of the echo report  because it was just like text.
+
+But uh  um after one round of it, I couldn't  find it. So, I'll spare you all that,  and we'll just go to the conclusion.  Having said all that,  this is helpful and all that kind of  stuff, but it's very easy just to cut  and paste this stuff in. If I've been  doing that, or to upload PDFs,  so the last thing I did, which I will  spare you, is I went to try to see if I  could actually upload images, and it was  far too complicated to figure out how to  do that,
+
+because the images I have are  multi-gig files, a very complex file  structure with a reader that came from  Ambra Health, and it couldn't either  upload them from my drive, nor if I went  to Ambra Health online, and tried to  share it, it couldn't figure out how to  do that, either.  I don't know if it actually needs the  images. I've already got the report in  there. It's already interpreted the  report for me into plain English. I'm  not sure the images help it much, but,  you know, maybe there is a an  opportunity to figure out how to get  images in there, and [clears throat]  have it to re-review them, and
+
+eventually replace radiologists.  But, for now, I think the overall  message is that, yeah, it's a pretty  good idea. It does enable you to go out  and grab from other places, although you  have to know where they are, and you  have to know your passwords for other  places, which isn't particularly great.  But, having said that, it's easier than  uploading your own data, but it didn't  take bring everything.
+
+Didn't bring all  those echo reports in. And what I've  been doing, which is just basically  going into my own MyChart, copying and  pasting, or uploading PDFs, is about as  good.  What it hasn't really done is, I mean,  maybe I could do this later, is figure  out how to create an actual parallel  health record to the one I have in  MyChart, or in One Medical, or if I'm in  multiple different MyChart instances,  which I may get to be yet.
+
+I'm no Morgan  Gleason with my 19 logins, but I've got  a bunch. I haven't figured out if it can  do that, and then organize that, and  systematically put it together. Maybe  that that's something it can do. Maybe I  could get an agent to do that. Or maybe  I just don't need to bother, because  really I'm just asking it questions.
+
+And although I haven't done this with  Chat GPT, in Claude I have got one long  chat which has got tons of information  about my different health elements. I  just ask it questions and you know, if  I've forgotten something I just ask it  to remind me from earlier in the chat.  And that's actually been very helpful.
+
+And I've also found that most of what it  says is actually very useful and it and  it does actually come up with some new  ideas. I've asked it about different  surgeons and stuff. I've asked it to  come up with people that you see for  different types of surgery and it's  surfaced new ideas and new new new  surgeons and and new specialists for me.
+
+So overall I think it's it's very  useful. I'm not quite sure how this  ability to bring in data from across the  board is at the moment. But you can see  that as it goes on, this could be a  place which is essentially a repository  for all of your data that you can find  anywhere. And that probably will be very  useful, especially if you have multiple  different providers, which frankly most  people in America do.
+
+So it's a pretty good first start. I'm  looking forward to how it develops. Yes,  yes, there's lots of concerns about what  they do with the data, blah blah blah.  But overall I think this is very useful  for patients.
